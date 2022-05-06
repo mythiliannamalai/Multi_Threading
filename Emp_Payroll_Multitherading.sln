@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emp_Payroll_Multitherading", "Emp_Payroll_Multitherading\Emp_Payroll_Multitherading.csproj", "{97023F1D-CFFE-49E7-B476-233E431F9674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTesting", "EmployeeTesting\EmployeeTesting.csproj", "{1885CE75-A391-4065-AA3E-7E3BFC60B49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97023F1D-CFFE-49E7-B476-233E431F9674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97023F1D-CFFE-49E7-B476-233E431F9674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97023F1D-CFFE-49E7-B476-233E431F9674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97023F1D-CFFE-49E7-B476-233E431F9674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1885CE75-A391-4065-AA3E-7E3BFC60B49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1885CE75-A391-4065-AA3E-7E3BFC60B49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1885CE75-A391-4065-AA3E-7E3BFC60B49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1885CE75-A391-4065-AA3E-7E3BFC60B49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B83E3A3-75C7-43A0-9A22-6FDF6C053B86}
+	EndGlobalSection
+EndGlobal
